@@ -8,4 +8,13 @@ Sinon:
 
 ---
 
+Common:
+
+* store state in test context
+    * in contrast to enclosing closure
+    * http://xunit.github.io/docs/shared-context.html
+    * https://github.com/switchfly/ember-mocha#component-test-modules
+
+---
+
 * Switchfly
