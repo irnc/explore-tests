@@ -1,4 +1,5 @@
 * https://github.com/switchfly/ember-test-helpers
+* https://github.com/rwjblue/ember-qunit
 
 Sinon:
 
