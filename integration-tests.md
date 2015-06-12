@@ -9,6 +9,11 @@
 
     _Tests that depend on specific data should always create that data before they execute. If you assume that the data is there, the test becomes brittle. Undoubtedly, another developer or database administrator will delete or modify the test data and break the test._
 
+## Testing ASP.NET Web API
+
+* [In memory client, host and integration testing of your Web API service](http://blogs.msdn.com/b/kiranchalla/archive/2012/05/06/in-memory-client-amp-host-and-integration-testing-of-your-web-api-service.aspx)
+  * This is what `supertest` do with an `express` application.
+
 ## Dictionary
 
 * brittle - хрупкий
