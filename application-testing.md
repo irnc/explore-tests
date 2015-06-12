@@ -1,8 +1,8 @@
 ## Test types or levels
 
 * unit testing
-* integration testing
-* full system tests
+* [integration testing](integration-tests.md)
+* full system tests (also called _acceptance tests_)
 
 ### See also
 
