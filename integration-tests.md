@@ -1,6 +1,7 @@
 # Integration tests
 
 * [Integration Testing](https://msdn.microsoft.com/en-us/library/aa292128(v=vs.71).aspx) page in MSDN
+* [Integration Testing Principles](http://blogs.msdn.com/b/ploeh/archive/2006/11/15/integrationtestingprinciples.aspx) by Mark Seemann
 
 ## Databases in integration tests
 
