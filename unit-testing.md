@@ -5,5 +5,7 @@
 
 ## Unit testing frameworks
 
+* https://en.wikipedia.org/wiki/XUnit
+* https://en.wikipedia.org/wiki/List_of_unit_testing_frameworks#JavaScript
 * Visual Studio 2005 Team System
 * NUnit
