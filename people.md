@@ -1,3 +1,3 @@
 * Kent Back
-  * fether of xUnit, 1998
+  * father of xUnit, 1998
 * [Mark Seemann](http://blog.ploeh.dk/)
