@@ -1,5 +1,6 @@
 ## Terminology
 
+* https://en.wikipedia.org/wiki/XUnit#xUnit_architecture
 * test framework (Jest)
 * javascript test framework (mocha)
 * JavaScript unit testing framework (QUnit)
