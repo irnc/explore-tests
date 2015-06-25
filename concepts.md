@@ -6,6 +6,10 @@
 * framework for testing JavaScript code (Jasmine)
 * testing framework (Karma)
 * test runner (Karma)
+* assertion library (mocha)
+  * framework-agnostic assertion library (should.js)
+* BDD style assertions (https://github.com/shouldjs/should.js)
+* test framework agnostic (should.js)
 
 ## Software development process
 
