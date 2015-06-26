@@ -1,3 +1,11 @@
+## Mocking backend API
+
+* https://github.com/samselikoff/ember-cli-mirage
+* https://github.com/danielspaniel/ember-data-factory-guy
+* http://www.ember-cli.com/#mocks-and-fixtures
+
+---
+
 * https://github.com/switchfly/ember-test-helpers
 * https://github.com/rwjblue/ember-qunit
 
