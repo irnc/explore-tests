@@ -2,6 +2,12 @@
 
 * http://guides.emberjs.com/v1.12.0/testing/
 
+## Component integration tests
+
+* https://github.com/switchfly/ember-test-helpers/pull/38
+* http://alisdair.mcdiarmid.org/2015/06/20/ember-component-integration-tests.html
+* https://github.com/emberjs/ember.js/issues/11557
+
 ## Mocking backend API
 
 * https://github.com/samselikoff/ember-cli-mirage
