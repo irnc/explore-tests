@@ -7,6 +7,7 @@
 * https://github.com/switchfly/ember-test-helpers/pull/38
 * http://alisdair.mcdiarmid.org/2015/06/20/ember-component-integration-tests.html
 * https://github.com/emberjs/ember.js/issues/11557
+* https://github.com/yapplabs/ember-radio-button/blob/master/tests/unit/components/radio-button-test.js#L10-L25
 
 ## Mocking backend API
 
