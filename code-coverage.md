@@ -4,3 +4,7 @@
     * https://github.com/alex-seville/blanket/issues/310
 * istanbul
   * https://github.com/gotwarlost/istanbul
+
+## Mechanism
+
+* https://github.com/alex-seville/blanket#mechanism
