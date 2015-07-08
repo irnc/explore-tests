@@ -1,1 +1,5 @@
 * https://github.com/json-schema/json-schema
+* http://chaijs.com/plugins/chai-json-schema
+* https://www.npmjs.com/package/chai-json-schema
+  * https://www.npmjs.com/package/chai2-json-schema
+  * https://www.npmjs.com/package/chai3-json-schema
