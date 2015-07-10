@@ -23,3 +23,5 @@ See [Clean Tests: A Primer](https://lostechies.com/jimmybogard/2015/01/29/clean-
 * http://bitworking.org/news/There_are_no_exceptions_to_Postel_s_Law_
 * http://tools.ietf.org/html/rfc2145
 * http://tools.ietf.org/html/draft-thomson-postel-was-wrong-00
+* http://googletesting.blogspot.com/2013/05/testing-on-toilet-dont-overuse-mocks.html
+* http://googletesting.blogspot.com/2012/10/hermetic-servers.html
