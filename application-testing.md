@@ -19,3 +19,7 @@ See [Clean Tests: A Primer](https://lostechies.com/jimmybogard/2015/01/29/clean-
 ## Service-oriented development
 
 * use Remote Facade pattern, [advice](http://blogs.msdn.com/b/ploeh/archive/2006/08/17/speakingattechedbarcelona.aspx#706320)
+* http://martinfowler.com/articles/consumerDrivenContracts.html
+* http://bitworking.org/news/There_are_no_exceptions_to_Postel_s_Law_
+* http://tools.ietf.org/html/rfc2145
+* http://tools.ietf.org/html/draft-thomson-postel-was-wrong-00
