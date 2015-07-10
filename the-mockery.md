@@ -4,6 +4,8 @@
  
   > mocks are useful for development but are an anti-pattern in testing. We decided that instead of spending time making mocks working in ember test --server we are going to show how to do proper mocking in testing using Pretender.
 
+* https://github.com/ember-cli/ember-cli/issues/1763#issuecomment-73520190
+
 * http://stackoverflow.com/questions/7075375/is-mockery-a-tdd-anti-pattern
 * http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/
 * https://medium.com/written-in-code/testing-anti-patterns-b5ffc1612b8b
