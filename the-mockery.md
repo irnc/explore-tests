@@ -1,3 +1,5 @@
+## Mocking backend API
+
 * https://github.com/ember-cli/ember-cli/issues/1763#issuecomment-71092605
 * http://stackoverflow.com/questions/7075375/is-mockery-a-tdd-anti-pattern
 * http://blog.james-carr.org/2006/11/03/tdd-anti-patterns/
@@ -5,6 +7,7 @@
 
   > Another manifestation of this anti-pattern is the mocking of data structures. Data structures should be real, and constructed as they are needed.
 
+* https://github.com/abuiles/ember-cli-101-errata/issues/163
 
 ## Mocks in TDD
 
