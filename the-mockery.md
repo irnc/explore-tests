@@ -9,3 +9,7 @@
 ## Mocks in TDD
 
 * http://www.thoughtworks.com/insights/blog/mockists-are-dead-long-live-classicists
+
+## Single responsibility principle
+
+* http://blakesmith.me/2012/02/29/test-stubbing-as-an-antipattern.html
