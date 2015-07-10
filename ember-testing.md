@@ -15,6 +15,10 @@
 * https://github.com/danielspaniel/ember-data-factory-guy
 * http://www.ember-cli.com/#mocks-and-fixtures
 
+## Historic origins
+
+* http://www.slideshare.net/jo_liss/testing-ember-apps
+
 ---
 
 * https://github.com/switchfly/ember-test-helpers
