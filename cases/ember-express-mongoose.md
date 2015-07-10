@@ -7,6 +7,10 @@
 * express routes are utilized by adapters from Ember application;
 * Ember application has a lot of business logic rules and calculations based on data.
 
+## Goals
+
+* we need assurance that Ember application working on database with real data serves specified user stories
+
 ## Mongoose Models
 
 Mongoose models can contain business logic, but in our case, all business logic was programmed in Ember application, leaving only data access responsibility to mongoose models.
