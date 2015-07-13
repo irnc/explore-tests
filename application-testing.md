@@ -11,6 +11,7 @@ See [Clean Tests: A Primer](https://lostechies.com/jimmybogard/2015/01/29/clean-
 * unit testing
 * [integration testing](integration-tests.md)
 * full system tests (also called _acceptance tests_)
+* end-to-end tests, see [end-to-end.md](end-to-end.md)
 
 ### See also
 
