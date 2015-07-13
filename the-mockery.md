@@ -21,3 +21,7 @@
 ## Single responsibility principle
 
 * http://blakesmith.me/2012/02/29/test-stubbing-as-an-antipattern.html
+
+## Don't Overuse Mocks
+
+* http://googletesting.blogspot.com/2013/05/testing-on-toilet-dont-overuse-mocks.html
