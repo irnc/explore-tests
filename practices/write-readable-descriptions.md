@@ -1,3 +1,23 @@
+## Templates for `context` description
+
+* `when there is more than 50 books`
+* `when requested with GET`
+* `updating saved model`
+
+### Shared fixture
+
+E.g. `when there is more than 50 books`.
+
+### Shared lifecycle code
+
+E.g. `when requested with GET`.
+
+### Present Continuous
+
+E.g. `updating saved model`.
+
+_TODO: elaborate why it is bad practice resulting in unreadable descriptions._
+
 ## How test case description is formed?
 
 Fully qualified description of a test case is concatenated from partial descriptions from `describe`, `context` and `it` statements.
